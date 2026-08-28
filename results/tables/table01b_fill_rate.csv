@@ -1,0 +1,7 @@
+﻿field,desc,fill_rate
+content_ko,body ko,1.0
+content_en,body en,1.0
+content_local,body local,1.0
+reg_reference,clause ref,0.0351
+sanction_type,sanction type,0.0547
+case_detail,case detail,0.0631

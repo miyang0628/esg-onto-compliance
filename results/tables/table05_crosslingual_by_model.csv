@@ -1,0 +1,4 @@
+﻿tier,model,"Agreement(en,local)","Cohen_kappa(en,local)",acc_en,acc_local,gap,ECE_en,ECE_local
+weak,gpt-4o-mini,0.8626,0.7861,0.5477,0.5729,-0.0251,0.2901,0.2682
+mid,gpt-5.4-mini,0.7605,0.628,0.4087,0.402,0.0067,0.5197,0.5297
+strong,gpt-5.4,0.8677,0.774,0.3551,0.3317,0.0235,0.5349,0.5504

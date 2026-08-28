@@ -1,0 +1,14 @@
+# ESG-Onto-Compliance — 재현 환경
+# Python 3.11+ 권장. 아래 버전은 개발·검증에 사용된 조합.
+# 정확한 재현을 원하면 == 로 고정, 유연성이 필요하면 >= 로 완화하세요.
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+matplotlib==3.10.8
+pyarrow==25.0.1
+
+# 노트북 실행용
+jupyter
+nbconvert
+ipykernel

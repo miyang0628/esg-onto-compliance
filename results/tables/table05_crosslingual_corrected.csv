@@ -1,0 +1,4 @@
+﻿tier,coverage_en,coverage_local,sel_acc_en,sel_acc_local,sel_acc_gap,forced_acc_en,forced_acc_local,agreement,cohen_kappa,ECE_en,ECE_local
+weak,0.7303,0.7638,0.75,0.75,0.0,0.5477,0.5729,0.8626,0.7861,0.1583,0.1553
+mid,0.5444,0.5444,0.7508,0.7385,0.0123,0.4087,0.402,0.7605,0.628,0.2123,0.223
+strong,0.4456,0.4221,0.797,0.7857,0.0113,0.3551,0.3317,0.8677,0.774,0.1623,0.1869
