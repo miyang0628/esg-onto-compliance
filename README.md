@@ -110,6 +110,21 @@ sorted order; LLM judgments are cached by input hash (the weak-tier cache is
 shipped, so weak-tier numbers reproduce at no cost). mid/strong tiers and any
 new prompt require live API calls.
 
+### Notes / known issues
+
+- **Verdict masking.** The effective verdict-masked test is in `nb09`
+  (`gold_masked`), which judges the **Korean** case text: redaction lowers
+  accuracy only 0.580 → 0.535, so the task is not mere outcome extraction.
+  The cross-lingual masked re-judge in `nb05` is a **no-op** — the sanction
+  lexicon is Korean while `nb05` judges the English/local inputs, so
+  `table05d_verdict_masked.csv` equals the unmasked numbers and should **not**
+  be reported. (To make it effective, extend the mask lexicon to en/local.)
+- **OTHER vs abstention.** Raw accuracy inverts with capability (weak > strong)
+  because stronger tiers emit OTHER more (abstain). Use `table05c_other_separated`
+  (decided accuracy, OTHER rate); decided accuracy does not invert.
+- **Risk–coverage.** `nb10` produces the true per-point curves
+  (`fig10_risk_coverage`); the main text summarizes them as coverage-at-risk bars.
+
 ---
 
 ## Figures
