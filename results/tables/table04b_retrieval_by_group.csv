@@ -1,0 +1,5 @@
+﻿country,category,n,Recall@1,Recall@5,Recall@10,MRR
+Malaysia,Legal case,179,0.0168,0.0726,0.1229,0.0414
+Malaysia,Regulation,1080,0.0593,0.1657,0.237,0.1058
+Vietnam,Legal case,180,0.0111,0.0278,0.0333,0.017
+Vietnam,Regulation,1081,0.1425,0.3515,0.4524,0.2329

@@ -1,0 +1,6 @@
+﻿metric,value
+total_cases,2529
+result_field_filled,2193
+result_field_empty(UNLABELED),336
+label_counts,"{""OTHER"": 1310, ""NON_COMPLIANT"": 508, ""COMPLIANT"": 408, ""UNLABELED"": 303}"
+note,"""resultsInSanction edges count only cases whose rule label is NON_COMPLIANT; OTHER/COMPLIANT/UNLABELED carry no sanction edge."""

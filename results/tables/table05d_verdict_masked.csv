@@ -1,0 +1,7 @@
+﻿tier,lang,masked_acc,masked_decided_acc,masked_coverage
+gpt-4o-mini,en,0.5561,0.7597,0.732
+gpt-4o-mini,local,0.5729,0.7516,0.7621
+gpt-5.4-mini,en,0.3769,0.745,0.5059
+gpt-5.4-mini,local,0.4054,0.7586,0.5343
+gpt-5.4,en,0.325,0.7886,0.4121
+gpt-5.4,local,0.3216,0.7934,0.4054

@@ -1,0 +1,7 @@
+﻿tier,lang,raw_acc,decided_acc,coverage,other_rate
+weak,en,0.5561,0.7597,0.732,0.268
+weak,local,0.5729,0.7516,0.7621,0.2379
+mid,en,0.3769,0.745,0.5059,0.4941
+mid,local,0.4054,0.7586,0.5343,0.4657
+strong,en,0.325,0.7886,0.4121,0.5879
+strong,local,0.3216,0.7934,0.4054,0.5946

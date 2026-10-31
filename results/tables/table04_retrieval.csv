@@ -1,0 +1,2 @@
+﻿baseline,retriever,Recall@1,Recall@5,Recall@10,MRR,nDCG@10,n
+B2_flat_tfidf,tfidf,0.0885,0.229,0.3067,0.1494,0.1865,2520

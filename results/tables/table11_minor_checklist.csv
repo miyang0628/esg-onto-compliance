@@ -1,0 +1,7 @@
+﻿ref,item,action
+minor1,Section 6.1 difficulty ranking,use table07_by_doclang_country for a consistent ranking
+minor2,"303 UNLABELED vs 2,193 vs 2,529",cite table11_count_reconciliation
+minor3,sanction for acquitted cases / Fig3,see table11_label_bias + severity_bucket rule
+minor4,Germany example in Fig4,replace with a Vietnam/Malaysia instance from the corpus
+minor5,B2 called 'dense' in Graphical Abstract,B2 is sparse char-TF-IDF; fix the label
+minor6,repo URL / 'Contributions..' / 'Appendix Appendix A' / 'Englishvs-local',typo pass

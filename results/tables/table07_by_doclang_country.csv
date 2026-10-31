@@ -1,0 +1,7 @@
+﻿doc_lang,country,Recall@10,MRR,n
+ko,Malaysia,0.2208,0.0966,1259
+ko,Vietnam,0.3925,0.2021,1261
+en,Malaysia,0.0024,0.0006,1259
+en,Vietnam,0.0079,0.0035,1261
+local,Malaysia,0.0024,0.0012,1259
+local,Vietnam,0.0056,0.0029,1261
